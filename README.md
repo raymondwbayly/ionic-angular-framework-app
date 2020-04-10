@@ -1,2 +1,2 @@
-# ionic-angular-framework-app
-Ionic Framework application
+# ionic-angular-framework
+Framework test
